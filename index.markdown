@@ -4,7 +4,6 @@
 
 layout: home
 ---
-
 <h2>All Project Blogs</h2>
 <ul>
 {% assign categories_list = site.categories %}
